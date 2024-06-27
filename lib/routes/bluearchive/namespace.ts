@@ -1,6 +1,7 @@
 import type { Namespace } from '@/types';
 
 export const namespace: Namespace = {
-    name: 'Microsoft',
-    url: 'microsoft.com',
+    name: 'Blue Archive',
+    url: 'bluearchive.jp',
+    categories: ['game'],
 };
